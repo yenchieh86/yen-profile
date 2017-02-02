@@ -5,13 +5,13 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Yen-Chieh Chen
+  title: Tyrion Lannister # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Web Developing Is An Art</h1>
-     <p>I have experience in jQuery and Ruby on Rails. My goal is to become a awesome web developer.</p>
+     <h1>Witty & Hilarious Rails Developer</h1>
+     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -47,9 +47,7 @@ theme_settings:
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next: "Next"yenchieh86
-  jack4930
-  
+  str_next: "Next"
   str_prev: "Prev"
   str_continue_reading: "Read more &raquo;"
 
