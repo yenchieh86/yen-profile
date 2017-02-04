@@ -7,7 +7,7 @@ short-description: It's a Saas Wiki Collaboration Tool which allows users to cre
 ---
 
 {:.center}
-![]({{ site.baseurl }}https://media.licdn.com/media-proxy/ext?w=409&h=410&f=&hash=hWS2gYdhwvb7wD8eG%2BWAJX2O7NE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf36_e5XYL7f0uVoeen0clA1gLvL5EzngD8a7Lty8e9sljcTnJ424ZxUBbFImi24)
+![]({{ site.baseurl }} https://media.licdn.com/media-proxy/ext?w=409&h=410&f=&hash=hWS2gYdhwvb7wD8eG%2BWAJX2O7NE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf36_e5XYL7f0uVoeen0clA1gLvL5EzngD8a7Lty8e9sljcTnJ424ZxUBbFImi24)
 
 ## Explanation
 
