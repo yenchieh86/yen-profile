@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Blocmetrics
-thumbnail-path: "https://github.com/yenchieh86/Blocmetrics/blob/master/app/assets/images/ss2.png"
+thumbnail-path: "https://raw.githubusercontent.com/yenchieh86/Blocmetrics/master/app/assets/images/ss2.png"
 short-description: An analytics service and reporting tool that you can be used to track user activity and report results.
 
 ---
 
 {:.center}
-![](https://github.com/yenchieh86/Blocmetrics/blob/master/app/assets/images/ss2.png)
+![](https://raw.githubusercontent.com/yenchieh86/Blocmetrics/master/app/assets/images/ss2.png)
 
 ## Explanation
 
