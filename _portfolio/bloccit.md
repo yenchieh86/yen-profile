@@ -1,0 +1,34 @@
+---
+layout: post
+title: Bloccit
+thumbnail-path: "https://camo.githubusercontent.com/2f98a053b28edbdc902c2df28b2f453bc483f196/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f6d656469612d70726f78792f6578743f773d35343326683d33313326663d26686173683d33584b573163446725324673315a56386c6e54636456335a3247376451253344266f72613d31253243614642435458646b526d70474c326c7651554642505125324378415674613945723056696e6b6877666a773831373779453431793837554e43566f7264454758794433753071597264667950674c35614b4b37436c755174454c486f636c415533665f4b67526a6a6a4438433065493375657431353270546d493432345a7855426246496d693234"
+short-description: Bloccit is a Ruby on Rails application that allows users to create topics and posts.
+
+---
+
+{:.center}
+![](https://camo.githubusercontent.com/2f98a053b28edbdc902c2df28b2f453bc483f196/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f6d656469612d70726f78792f6578743f773d35343326683d33313326663d26686173683d33584b573163446725324673315a56386c6e54636456335a3247376451253344266f72613d31253243614642435458646b526d70474c326c7651554642505125324378415674613945723056696e6b6877666a773831373779453431793837554e43566f7264454758794433753071597264667950674c35614b4b37436c755174454c486f636c415533665f4b67526a6a6a4438433065493375657431353270546d493432345a7855426246496d693234)
+
+## Explanation
+
+Bloccit is a Ruby on Rails application that allows users to create topics and posts. 
+
+Users are able to up/down vote posts as well as favorite them. 
+
+All aspects for this app were custom built, including authentication and authorization, in order to gain a thorough understanding of their functionality.
+
+## Problem
+
+Need to nest model under other models. And allows user to select favorite.
+
+Deplay topics and posts by voting.
+
+## Solution
+
+User has_many and belong_to to nested models.
+
+Create a table for vote's value, use vote's value to manage topics and posts' order.
+
+## Results
+
+Visit the Heroku app: [Bloccit](https://yen-bloccit.herokuapp.com/)
