@@ -27,6 +27,3 @@ Use jQuery to hide the target without reflashing page.
 
 Generate a library with a task that will deletes todo-item after 7 days, and use command line to run the task.
 
-## Results
-
-Visit the Heroku app: [Blocitoff](https://yen-blocitoff.herokuapp.com/)

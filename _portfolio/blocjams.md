@@ -23,6 +23,3 @@ Need to use application to play music, and need to add different albums and song
 
 Use JavaScript to store albums' informations and use buzz to play music.
 
-## Results
-
-Visit the app: [Blocjams](http://yen-bloc-jams.netlify.com/)

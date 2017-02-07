@@ -25,6 +25,3 @@ It need to highlight , real-time update for wiki edit/new page.
 
 Inject highlight.js and use jQuery to update html by keyup eventlistener.
 
-## Results
-
-Visit the Heroku app: [Blocipedia](https://yen-blocipedia.herokuapp.com/)

@@ -29,6 +29,3 @@ User has_many and belong_to to nested models.
 
 Create a table for vote's value, use vote's value to manage topics and posts' order.
 
-## Results
-
-Visit the Heroku app: [Bloccit](https://yen-bloccit.herokuapp.com/)

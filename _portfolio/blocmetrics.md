@@ -29,6 +29,3 @@ Create a API controller and route for receiving application's events.
 
 Add Groupdate gem to Rails.
 
-## Results
-
-Visit the Heroku app: [Blocipedia](https://yen-blocipedia.herokuapp.com/)
