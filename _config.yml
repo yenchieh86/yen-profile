@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Web Developing Is An Art.</h1>
-     <p>I have experience in jQuery, Ruby on Rails. My goal is to become a awesome web developer.</p>
+     <p>I am a full stack software engineer with a strong background in Ruby. My experience includes working with technologies such as Ruby on Rails, jQuery.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
