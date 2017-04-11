@@ -10,6 +10,8 @@ I am a full stack software engineer with a strong background in Ruby. My experie
 
 Skills: Ruby, Ruby on Rails, Javascript, jQuery, Ajax, HTML/CSS, Bootstrap, Git, Heroku, AWS
 
+I am looking for an entry level web development or back-end development job.
+
 Codewars: https://www.codewars.com/users/yenchieh86
 Github: https://github.com/yenchieh86
 
