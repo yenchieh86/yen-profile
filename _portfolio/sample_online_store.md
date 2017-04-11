@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Sample Online Store
-thumbnail-path: "https://raw.githubusercontent.com/yenchieh86/Blocmetrics/master/app/assets/images/ss2.png"
+thumbnail-path: "https://raw.githubusercontent.com/yenchieh86/yen-profile/master/img/online_store.png"
 short-description: Build an online store.
 
 ---
 
 {:.center}
-![](https://raw.githubusercontent.com/yenchieh86/Blocmetrics/master/app/assets/images/ss2.png)
+![](https://raw.githubusercontent.com/yenchieh86/yen-profile/master/img/online_store.png)
 
 ## Explanation
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Sample Twitter App
-thumbnail-path: "https://raw.githubusercontent.com/yenchieh86/Blocmetrics/master/app/assets/images/ss2.png"
+thumbnail-path: "https://raw.githubusercontent.com/yenchieh86/yen-profile/master/img/sample_app.png"
 short-description: Build a website like Twitter.
 
 ---
 
 {:.center}
-![](https://raw.githubusercontent.com/yenchieh86/Blocmetrics/master/app/assets/images/ss2.png)
+![](https://raw.githubusercontent.com/yenchieh86/yen-profile/master/img/sample_app.png)
 
 ## Explanation
 
